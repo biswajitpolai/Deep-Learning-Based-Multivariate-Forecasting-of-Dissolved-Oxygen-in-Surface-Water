@@ -106,8 +106,3 @@ Current overall model performance:
 
 This work was carried out as part of the Summer Research Internship at **Indian Institute of Science Education and Research (IISER) Berhampur**.
 
----
-
-
-
-This project is intended for academic and research purposes.

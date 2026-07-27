@@ -55,20 +55,6 @@ Total Input Features = **9**
 
 ---
 
-## Forecasting Configuration
-
-| Parameter | Value |
-|------------|-------|
-| Input Sequence Length | 24 |
-| Forecast Horizon | 6 |
-| Input Features | 9 |
-| Target | Dissolved Oxygen |
-| Batch Size | 32 |
-| Epochs | 100 |
-| Early Stopping | 10 |
-| Optimizer | Adam |
-| Learning Rate | 0.001 |
-| Loss Function | Mean Squared Error (MSE) |
 
 ---
 
